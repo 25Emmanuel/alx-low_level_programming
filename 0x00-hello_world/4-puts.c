@@ -1,5 +1,6 @@
 #include <stdio.h>
-/*entering main
+/*
+ * entering main
  *
  * returns 0 on success
  */
