@@ -5,7 +5,8 @@
  * *main - positive or negative function.
  * *
  * *Return: (success)
- * */
+ *
+  */
 int main(void)
 {
 	int n;
