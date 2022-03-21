@@ -1,4 +1,4 @@
-#include "main.h"
+#include "holberton.h"
 /**
  * _puts - function to print string
  * Description - prints a tring, followed by a new line
