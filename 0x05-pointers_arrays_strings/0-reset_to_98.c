@@ -1,9 +1,9 @@
 #include "holberton.h"
 /**
- * main - check the code
- *
- * Return: Always 0.
+ * reset_to_98 - takes a pointer to a parameter and updates its value.
+ *@n: input interger
+ * Return: no return.
  */
-void reset_reset_to_98(int *n) {
+void reset_to_98(int *n) {
 	*n = 98;
 }
